@@ -1,6 +1,6 @@
 # typing
 
-  - [ ] read `typing` module docs
+  - [ ] read `typing` module docs and PEP 483 & co
   
   - [ ] play with type hints
   
