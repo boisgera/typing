@@ -23,8 +23,12 @@
 
 ### Visual Studio Code
 
-**Out of the box.** (with only the [Python extension for VS code](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python))
+#### Out of the box 
+
+(with only the [Python extension for VS code](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python))
 Can understand and propagate (infer) some typing info, so that the type of some
 variables in the code is known and visible when we hover some variable.
 
-**Extensions.** [Pyright](https://github.com/microsoft/pyright)
+#### Extensions
+
+[Pyright](https://github.com/microsoft/pyright)
